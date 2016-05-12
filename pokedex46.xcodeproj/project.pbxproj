@@ -13,6 +13,7 @@
 		D5AF18D51CE4CCBD00E3E73D /* pokedex46.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D5AF18D31CE4CCBD00E3E73D /* pokedex46.xcdatamodeld */; };
 		D5AF18D71CE4CCBD00E3E73D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5AF18D61CE4CCBD00E3E73D /* Assets.xcassets */; };
 		D5AF18DA1CE4CCBD00E3E73D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5AF18D81CE4CCBD00E3E73D /* LaunchScreen.storyboard */; };
+		D5AF18E21CE4CF5700E3E73D /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = D5AF18E11CE4CF5700E3E73D /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D5AF18D61CE4CCBD00E3E73D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D5AF18D91CE4CCBD00E3E73D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D5AF18DB1CE4CCBD00E3E73D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5AF18E11CE4CF5700E3E73D /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				D5AF18CC1CE4CCBD00E3E73D /* AppDelegate.swift */,
 				D5AF18CE1CE4CCBD00E3E73D /* ViewController.swift */,
+				D5AF18E11CE4CF5700E3E73D /* pokemon.csv */,
 				D5AF18D01CE4CCBD00E3E73D /* Main.storyboard */,
 				D5AF18D61CE4CCBD00E3E73D /* Assets.xcassets */,
 				D5AF18D81CE4CCBD00E3E73D /* LaunchScreen.storyboard */,
@@ -128,6 +131,7 @@
 			files = (
 				D5AF18DA1CE4CCBD00E3E73D /* LaunchScreen.storyboard in Resources */,
 				D5AF18D71CE4CCBD00E3E73D /* Assets.xcassets in Resources */,
+				D5AF18E21CE4CF5700E3E73D /* pokemon.csv in Resources */,
 				D5AF18D21CE4CCBD00E3E73D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
